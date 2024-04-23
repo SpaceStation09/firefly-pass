@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-project",
+  "scripts": {
+    "test": "hardhat test",
+    "coverage": "hardhat coverage",
+    "lint": "hardhat check",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3",
+    "merkletreejs": "^0.3.11"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "csv-parse": "^5.5.5",
+    "dotenv": "^16.4.5"
+  }
+}
