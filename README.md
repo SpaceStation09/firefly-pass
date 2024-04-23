@@ -16,9 +16,11 @@ If you want get the typechain thing, pull this repo and run:
 
 ### Deployment
 
-| Chain | Address |
-| ----- | ------- |
-|       |         |
+| Chain   | Address                    |
+| ------- | -------------------------- |
+| Polygon | [`0x8D03d9b4`][pass-matic] |
+
+[pass-matic]: https://polygonscan.com/address/0x8d03d9b43e98cc2f790be4e96503fd0ccfd04a2d
 
 ## Usage
 
