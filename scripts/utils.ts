@@ -16,5 +16,5 @@ export interface GasLevel {
 
 export const defaultGas: GasLevel = {
   maxPriorityFee: parseUnits("35", "gwei"),
-  maxFee: parseUnits("40", "gwei"),
+  maxFee: parseUnits("100", "gwei"),
 };
